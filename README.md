@@ -63,3 +63,13 @@ This project demonstrates how SQL and Power BI can help finance and procurement 
 
 ## Skills Demonstrated
 SQL querying, data aggregation, duplicate detection, financial analysis, DAX measures, Power BI dashboard development, data visualization, and business problem-solving.
+## Dashboard Preview
+
+### Main Dashboard
+![Main Dashboard](project_1.png)
+
+### Filter Example 1
+![Filter Example 1](filter1.png)
+
+### Filter Example 2
+![Filter Example 2](filter2.png)
